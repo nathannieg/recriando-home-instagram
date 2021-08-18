@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram
 
-Este projeto é parte do Bootcamp Web Developer oferecido pela [Digital Inovation One](https://digitalinnovation.one/).
+Este projeto é parte do Bootcamp HTML Web Developer oferecido pela [Digital Inovation One](https://digitalinnovation.one/).
 
 A proposta do projeto é reproduzir a página inicial do Instagram para desktop, tablets e mobile.
 
