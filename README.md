@@ -18,8 +18,8 @@ A proposta do projeto é reproduzir a página inicial do Instagram para desktop,
 
 ### Links
 
-- [Solução no Github]()
-- [Live site]()
+- [Solução no Github](https://github.com/nathannieg/recriando-home-instagram)
+- [Live site](https://nathannieg.github.io/recriando-home-instagram/)
 
 ### Agradecimentos
 
